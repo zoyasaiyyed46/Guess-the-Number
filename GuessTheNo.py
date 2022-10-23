@@ -27,9 +27,9 @@ while True:
         elif guess > random_number:
             print("You guessed a large number.")
         if chances == 7:
-            print("\n You've run out of chances")
+            print("\n You've-run-out-of-chances")
             print("\n The number was ", random_number)
-            print("Better luck next time")
+            print("Better-luck-next-time")
             break
     print("\n")
     break
